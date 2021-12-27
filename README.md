@@ -1,24 +1,38 @@
 ### Hi there 👋
 
-<!--
-**MauroM13/MauroM13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I am Mauro Martins. 👋 Olá Eu sou o Mauro Martins.
 
-Here are some ideas to get you started:
+<div>
+<a href="https://github.com/MauroM13/MauroM13">
+<img height="180cm" src="https://github.com/MauroM13/MauroM13/blob/main/pexels-christina-morillo-1181675.jpg">  
+</div>
+                                                                                 
+Olá, sou o MAuro Lúcio, um advogado de 40 anos que decidiu por vontade própria adentrar ao mundo do desenvolvimeno de softwares.
 
-- 🔭 I’m currently working on lawsuits and learning software development in Digital House and self taught Bootcamps.
-Atualmente conduzo processos judiciais e estou estudando desenvolvimento de software na Digital House e bootcamps autodidatas.
+Resolvi entrar de cabeça, pois tudo que faço, faço com dedicação e pela simples razão de que conhecimento nunca é demais.
 
-- 🌱 I’m currently learning modules dedicated to Infrastructure and Front End II.
-Aprenderei a partir de fevereiro módulos sobra Infraestrutura e Front End II.
+Ainda estou em busca de experiência e oportunidades tanto de desenvolver meus conhecimentos na área quanto de ajudar nos commits e desenvolvimentos pelo mnundo.
 
-- 👯 I’m looking to collaborate on Front End projects and/or SQL Databases on a entry level.
-Estou em busca de colaborações em projetos ligados a Front End e/ou Banco de Dados SQL.
+Participo atualmente do curso Certified Tech Developes da Digital House e Bootcmps isolados como Front Ent do Banco Inter na Digital Innovation One e AWS Architecture pela Amazon.
+  
+E aí, vamos codar?
+  
+      
+  <div style= "display:inline_block"><br> 
+      <img allign=center alt="Mauro_aws" height='70' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <img allign="center" alt="Mauro_boot" height='70' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+    <img allign="center" alt="Mauro_css" height='70' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img allign="center" alt="MAuro_html" height='70' width='60'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img allign="center" alt="Mauro_js" height='70' width='60'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img allign="center" alt="Mauro_sql" height='70' width='60'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img allign="center" alt="Mauro_code" height='70' width='60'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+                                                                                                                                                     
+<div> 
+    <a href="mailto:mauroluciomartins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+    
+<div>
+    <a href="https://www.linkedin.com/in/mauro-lucio-martins-marques-b8339534/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
+    
 
-- 🤔 I’m looking for help with my learning goals and to find an entry level job to boost my knowledge and my experience.
-Estou procurando ajuda para vagas em nível iniciante e crescimento do meu conhecimento e experiências na área.
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
