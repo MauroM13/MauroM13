@@ -7,7 +7,7 @@ Hi there, I am Mauro Martins. 👋 Olá Eu sou o Mauro Martins.
 <img height="180cm" src="https://github.com/MauroM13/MauroM13/blob/main/pexels-christina-morillo-1181675.jpg">  
 </div>
                                                                                  
-Olá, sou o MAuro Lúcio, um advogado de 40 anos que decidiu por vontade própria adentrar ao mundo do desenvolvimeno de softwares.
+Olá, sou o Mauro Lúcio, um advogado de 40 anos que decidiu por vontade própria adentrar ao mundo do desenvolvimeno de softwares.
 
 Resolvi entrar de cabeça, pois tudo que faço, faço com dedicação e pela simples razão de que conhecimento nunca é demais.
 
