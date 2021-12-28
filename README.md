@@ -4,7 +4,7 @@ Hi there, I am Mauro Martins. 👋 Olá Eu sou o Mauro Martins.
 
 <div>
 <a href="https://github.com/MauroM13/MauroM13">
-<img height="180cm" src="https://github.com/MauroM13/MauroM13/blob/main/pexels-christina-morillo-1181675.jpg">  
+<img height="300em" width="1600em" src="https://github.com/MauroM13/MauroM13/blob/main/pexels-christina-morillo-1181675.jpg">  
 </div>
                                                                                  
 Olá, sou o Mauro Lúcio, um advogado de 40 anos que decidiu por vontade própria adentrar ao mundo do desenvolvimeno de softwares.
@@ -26,6 +26,12 @@ E aí, vamos codar?
     <img allign="center" alt="Mauro_js" height='70' width='60'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img allign="center" alt="Mauro_sql" height='70' width='60'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img allign="center" alt="Mauro_code" height='70' width='60'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    
+ <div>
+<a href="https://github.com/MauroM13">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroM13&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauroM13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
                                                                                                                                                      
 <div> 
     <a href="mailto:mauroluciomartins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
